@@ -1,7 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
+	Convert a folder into a git repository which allows version control
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+	Staging area allows a selection of files which can then be committed, but are not yet committed.
+	The working area includes all files
 
 How can you use the staging area to make sure you have one commit per logical
 change?
