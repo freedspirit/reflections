@@ -17,6 +17,7 @@ organized? How would branches help?
 	Working on a bug fix
 
 How do the diagrams help you visualize the branch structure?
+	By understanding what is on a branch line and what can, and can not be reached by different branch lines
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
