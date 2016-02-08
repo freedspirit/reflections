@@ -35,7 +35,9 @@ stored locally?
 5. How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Harder - it would be much hard to keep track of all the changes, pull requests without some form of version control.
+    Some informal version of version control would need to be constructed and implemented.
+    Easier - possibly if the work was very simple and people didn't know how to use GitHub then some informal system may be easier e.g. with sharing of recipes
 
 6. When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
