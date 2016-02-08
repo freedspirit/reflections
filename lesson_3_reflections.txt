@@ -10,7 +10,10 @@ local?
 2. Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    You can be working on something remotely which is not yet ready for sharing.
+    You want to make an active decision to share from a local respository to github which is public
+    Even if the files on github are private you may still not want to push everything automatically 
+    as you may experiment locally and only push to github certain parts of the work.
 
 3. Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
