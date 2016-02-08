@@ -14,7 +14,7 @@ commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
     Pros: can make a conscious choice of when to make a save i.e. think about good points to save work from the viewpoint of future usefulness
-    Con: make go too long without saving a change so that key changes may not be recorded
+    Con: may go too long without saving a change so that key changes may not be recorded
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
