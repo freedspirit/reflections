@@ -42,4 +42,4 @@ and what would be harder?
 6. When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you want to give other collaborators the opportunity to comment on the changes that you have made before they are committed to the main branch
